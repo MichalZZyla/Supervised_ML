@@ -1,2 +1,4 @@
 # Supervised_ML
-Repository includes supervised Machine Learning Models
+
+Data was taken from : 
+https://www.kaggle.com/datasets/mirichoi0218/insurance/data
